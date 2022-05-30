@@ -2,6 +2,6 @@ class first
 {
     public static void main(String x[])
     {
-        System.out.println("welcome to java program");
+        System.out.printl("welcome to java program");
     }
 }
